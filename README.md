@@ -1,6 +1,6 @@
 # FizzBuzz
 
-**TODO: Add description**
+FizzBuzz using Elixir
 
 ## Installation
 
